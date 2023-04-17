@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+#Run command to show who is user
+sudo -u "$1" whoami
