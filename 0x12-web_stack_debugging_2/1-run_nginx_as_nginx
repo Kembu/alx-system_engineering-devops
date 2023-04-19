@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#script to debug sandbox 
 
 # Stop the Nginx service
 sudo service nginx stop
